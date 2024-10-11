@@ -1,6 +1,6 @@
 ## 🌼 Hi there, awesome humans! I’m Reet! (｡•̀ᴗ-)✧
 
-**Welcome to my cozy corner on GitHub!** I’m a CS student currently diving into the world of code and creativity (with plenty of snack breaks in between 🍪). If you’re here for some fun vibes and nerdy adventures, you’ve come to the right place! 🌸
+**Welcome to my cozy corner on GitHub!** I’m a CS student currently diving into the world of code and creativity. If you’re here for some fun vibes and nerdy adventures, you’ve come to the right place! 🌸
 
 ---
 
