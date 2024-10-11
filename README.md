@@ -17,9 +17,3 @@
 
 ---
 
-### 🌟 Let’s connect! 🌟
-
-- Drop by anytime and say hi—I don’t bite (unless you’re a really tasty cookie 🍪👀).
-
----
-
