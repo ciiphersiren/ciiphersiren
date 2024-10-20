@@ -6,7 +6,7 @@
 
 ### ✨ A few magical tidbits about me ✨
 
-- 🔮 **Currently working on**:  College studies, JavaScript frameworks, and mastering AI/ML.
+- 🔮 **Currently working on**:  College studies, web development frameworks, and exploring AI/ML.
 - 💻 **Learning**: DSA, AI, and planning cool projects—sometimes with *slightly* more coffee than planned.
 - 🤝 **Looking to collaborate on**: Open-source projects, AI/ML experiments, and maybe something fun and quirky if you’ve got ideas.
 - 💬 **Ask me about**: Coding, tech adventures, or my favorite sitcoms:>
