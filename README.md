@@ -84,8 +84,6 @@ Dice games, drum kits, memory games, a Google clone. The messy honest record of 
 
 `HTML` `CSS` `JavaScript` `jQuery`
 
-> not lame. foundational. (i'm told these are different things)
-
 </td>
 </tr>
 </table>
