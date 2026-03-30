@@ -18,7 +18,7 @@
 ### **she/her · CS @ VIT-AP · Hyderabad**
 *building things at the intersection of ml, neuroscience, and whatever looks cool*
 
-[![Email](https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:reet)
+[![Email](https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:choconlily@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ciiphersiren)
 
 </div>
@@ -101,20 +101,6 @@ web         = ["MongoDB", "Express", "Node.js", "React"]
 interests   = ["Reinforcement Learning", "AI safety", "Neuroscience", "Data Science"]
 tools       = ["Git", "Figma", "VS Code", "Jupyter"]
 ```
-
----
-
-## `./stats`
-
-<div align="center">
-
-![Reet's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciiphersiren&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ciiphersiren&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-</div>
-
----
 
 ## `./etc`
 
