@@ -7,16 +7,16 @@
 <div align="center">
 
 ```
-  ██████╗ ███████╗███████╗████████╗
-  ██╔══██╗██╔════╝██╔════╝╚══██╔══╝
-  ██████╔╝█████╗  █████╗     ██║
-  ██╔══██╗██╔══╝  ██╔══╝     ██║
-  ██║  ██║███████╗███████╗   ██║
-  ╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝
+██████╗ ███████╗███████╗████████╗
+██╔══██╗██╔════╝██╔════╝╚══██╔══╝
+██████╔╝█████╗  █████╗     ██║   
+██╔══██╗██╔══╝  ██╔══╝     ██║   
+██║  ██║███████╗███████╗   ██║   
+╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝   
 ```
 
 ### **she/her · CS (AI/ML) @ VIT-AP · Hyderabad**
-*ml engineer by training, neuroscientist in progress*
+*building ml systems, and making them look nice*
 
 [![Email](https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:choconlily@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ciiphersiren)
@@ -27,14 +27,12 @@
 
 ## `whoami`
 
-> final-year CS (AI/ML) undergrad heading toward computational neuroscience.
-> i spend my days training detectors on drone footage and my nights asking whether brain signals track working memory.
+> final-year CS (AI/ML) undergrad who likes knowing *why* a model works, not just that it does.
+> lately: small-object detection on drone footage, recommender systems built from scratch, and ML on messy real-world signal data.
 > i also make interactive visualizations and graphic art, mostly when i should be doing something else.
 
 **right now:**
-- 🛰️ prompt-based object detection on UAV imagery — writing it up as an IEEE conference paper with my team
-- 🧠 following up on my Neuromatch Academy ECoG project
-- 📚 preparing for grad school in computational neuroscience (IISc / TIFR)
+- 🛰️ prompt-based object detection on UAV imagery, being written up as an IEEE conference paper with my team
 - 💼 looking for a **Jan–Jun 2027 ML internship** in Hyderabad or Bangalore
 
 ---
@@ -102,7 +100,7 @@ A browser sandbox where you can *watch* RL agents learn in real time. Grid world
 *code isn't public yet*
 
 **🧠 Chasing Gamma** · *Neuromatch Academy 2026*
-Does high-gamma activity (70–170 Hz) track working-memory load in human ECoG? I was the primary coder in a 3-person pod: an MNE preprocessing pipeline, per-channel and region-level stats, FOOOF, and load decoding. The first result was null. Then we found the baseline window sat inside the maintenance period. After fixing that, the load effect held in 2 of 3 subjects, and load was decodable above chance in all 3.
+Decoding task difficulty from intracranial brain recordings (ECoG). I was the primary coder in a 3-person team: the preprocessing pipeline in MNE, per-channel and region-level stats with FDR correction, spectral parameterization, and a multiclass classifier. The first result was null, and I traced it to a normalization bug: the baseline window overlapped the signal we were measuring. After fixing it, the effect held in 2 of 3 subjects, and the classifier beat chance for all 3 (permutation p < .001).
 
 **🛰️ Prompt-based detection on drone imagery**
 We detect small objects in UAV images with YOLO26 and SAHI sliced inference, save the detections, and answer prompts over them ("how many cars?"). YOLOE handles open-vocabulary prompts in the web app. The IEEE conference paper is in progress with my team.
@@ -124,24 +122,23 @@ We detect small objects in UAV images with YOLO26 and SAHI sliced inference, sav
 ```python
 languages = ["Python", "JavaScript", "MATLAB", "Java", "C"]
 ml        = ["PyTorch", "scikit-learn", "NumPy", "YOLO / SAHI", "RL", "recommender systems"]
-neuro     = ["MNE-Python", "FOOOF", "ECoG analysis", "non-parametric stats"]
+signals   = ["MNE-Python", "time-series analysis", "spectral analysis", "non-parametric stats"]
 web       = ["Flask", "Node.js", "Express", "MongoDB", "React"]
 tools     = ["Git", "Jupyter", "Kaggle", "Figma", "VS Code"]
 ```
 
 ## `./etc`
 
-- 🧪 Neuromatch Academy, Computational Neuroscience 2026
 - 🏅 NPTEL Elite + Gold, Human–Computer Interaction
-- 🧑‍💻 ex-Vice President, Open Source Community @ VIT-AP
-- 🏎️ F1, filmmaking, creative writing, sketching
+- 🧑‍💻 ex-Vice President, President, and Design Lead positions at various clubs
+- 🏎️ learning languages, films and creative writing, sketching
 - 🦄 INFP if that means anything to you
 
 ---
 
 <div align="center">
 
-*working on something at the edge of ml and the brain? let's talk.*
+*if you're building something weird and interesting, let's talk.*
 
 **[ciiphersiren@github](https://github.com/ciiphersiren)**
 
