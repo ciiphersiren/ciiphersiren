@@ -129,6 +129,7 @@ tools     = ["Git", "Jupyter", "Kaggle", "Figma", "VS Code"]
 
 ## `./etc`
 
+- 🧪 Neuromatch Academy, Computational Neuroscience 2026
 - 🏅 NPTEL Elite + Gold, Human–Computer Interaction
 - 🧑‍💻 ex-Vice President, President, and Design Lead positions at various clubs
 - 🏎️ learning languages, films and creative writing, sketching
