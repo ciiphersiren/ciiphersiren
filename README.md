@@ -32,7 +32,7 @@
 > i also make interactive visualizations and graphic art, mostly when i should be doing something else.
 
 **right now:**
-- 🛰️ prompt-based object detection on UAV imagery, being written up as an IEEE conference paper with my team
+- 🛰️ prompt-based object detection on UAV imagery, being written up as an IEEE paper with my team
 - 💼 looking for a **Jan–Jun 2027 ML internship** in Hyderabad or Bangalore
 
 ---
