@@ -5,9 +5,9 @@
 
 <a href="https://ciiphersiren.github.io"><img src="./assets/header.svg" width="100%" alt="reet. — she/her · CS (AI/ML) @ VIT-AP · Hyderabad — building ml systems, and making them look nice"></a>
 
-<a href="mailto:choconlily@gmail.com"><img src="https://img.shields.io/badge/email-choconlily%40gmail.com-2b2741?style=for-the-badge&logo=gmail&logoColor=b5abfc&labelColor=161826" alt="email"></a>
-<a href="https://linkedin.com/in/ciiphersiren"><img src="https://img.shields.io/badge/linkedin-ciiphersiren-2b2741?style=for-the-badge&logo=linkedin&logoColor=b5abfc&labelColor=161826" alt="linkedin"></a>
-<a href="https://ciiphersiren.github.io"><img src="https://img.shields.io/badge/portfolio-enter%20the%20system-2b2741?style=for-the-badge&logo=githubpages&logoColor=b5abfc&labelColor=161826" alt="portfolio"></a>
+<a href="mailto:choconlily@gmail.com"><img src="https://img.shields.io/badge/email-choconlily%40gmail.com-1f5fa8?style=for-the-badge&logo=gmail&logoColor=ffd85c&labelColor=0b1e3f" alt="email"></a>
+<a href="https://linkedin.com/in/ciiphersiren"><img src="https://img.shields.io/badge/linkedin-ciiphersiren-1f5fa8?style=for-the-badge&logo=linkedin&logoColor=ffd85c&labelColor=0b1e3f" alt="linkedin"></a>
+<a href="https://ciiphersiren.github.io"><img src="https://img.shields.io/badge/portfolio-enter%20the%20system-1f5fa8?style=for-the-badge&logo=githubpages&logoColor=ffd85c&labelColor=0b1e3f" alt="portfolio"></a>
 
 ## `whoami`
 
@@ -32,7 +32,7 @@ Six planets, one per section, each on its own orbit. Click a planet and it shatt
 
 Also, something's hiding in a corner.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-2b2741?style=flat-square) ![Canvas](https://img.shields.io/badge/Canvas-2b2741?style=flat-square) ![Particle Effects](https://img.shields.io/badge/Particle%20Effects-2b2741?style=flat-square) ![No Dependencies](https://img.shields.io/badge/No%20Dependencies-2b2741?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-12336b?style=flat-square) ![Canvas](https://img.shields.io/badge/Canvas-12336b?style=flat-square) ![Particle Effects](https://img.shields.io/badge/Particle%20Effects-12336b?style=flat-square) ![No Dependencies](https://img.shields.io/badge/No%20Dependencies-12336b?style=flat-square)
 
 → **[enter the system](https://ciiphersiren.github.io)**
 
@@ -44,9 +44,9 @@ Also, something's hiding in a corner.
 
 Grayscale or color output, export to text, PNG or HTML, and an interactive app. No toolboxes: I reimplemented resizing, grayscale, histogram equalization and sharpening myself. The block averaging is vectorized with cumulative sums and benchmarked against a loop, including where the speedup disappears once the work becomes memory-bound.
 
-![tests](https://img.shields.io/badge/tests-80-2b2741?style=flat-square&labelColor=161826) ![coverage](https://img.shields.io/badge/coverage-97.9%25-5d5294?style=flat-square&labelColor=161826) ![CI](https://img.shields.io/badge/CI-every_push-2b2741?style=flat-square&labelColor=161826)
+![tests](https://img.shields.io/badge/tests-80-12336b?style=flat-square&labelColor=0b1e3f) ![coverage](https://img.shields.io/badge/coverage-97.9%25-2fbf71?style=flat-square&labelColor=0b1e3f) ![CI](https://img.shields.io/badge/CI-every_push-12336b?style=flat-square&labelColor=0b1e3f)
 
-![MATLAB](https://img.shields.io/badge/MATLAB-2b2741?style=flat-square) ![Vectorization](https://img.shields.io/badge/Vectorization-2b2741?style=flat-square) ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-2b2741?style=flat-square) ![Image Processing](https://img.shields.io/badge/Image%20Processing-2b2741?style=flat-square)
+![MATLAB](https://img.shields.io/badge/MATLAB-12336b?style=flat-square) ![Vectorization](https://img.shields.io/badge/Vectorization-12336b?style=flat-square) ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-12336b?style=flat-square) ![Image Processing](https://img.shields.io/badge/Image%20Processing-12336b?style=flat-square)
 
 → **[File Exchange](https://in.mathworks.com/matlabcentral/fileexchange/185076-ascii-art-generator)** · **[open in MATLAB Online](https://matlab.mathworks.com/open/github/v1?repo=ciiphersiren/matlab-ascii-art)**
 
@@ -60,7 +60,7 @@ Grayscale or color output, export to text, PNG or HTML, and an interactive app. 
 
 Popularity, item-based CF, content-based (TF-IDF), matrix factorization, and a hybrid, all evaluated side by side on MovieLens 100k. SVD is hand-written with gradient descent in numpy. Flask backend, plus a dashboard that shows how each model is doing.
 
-![Python](https://img.shields.io/badge/Python-2b2741?style=flat-square) ![NumPy](https://img.shields.io/badge/NumPy-2b2741?style=flat-square) ![Flask](https://img.shields.io/badge/Flask-2b2741?style=flat-square) ![Chart.js](https://img.shields.io/badge/Chart.js-2b2741?style=flat-square) ![RecSys](https://img.shields.io/badge/RecSys-2b2741?style=flat-square)
+![Python](https://img.shields.io/badge/Python-12336b?style=flat-square) ![NumPy](https://img.shields.io/badge/NumPy-12336b?style=flat-square) ![Flask](https://img.shields.io/badge/Flask-12336b?style=flat-square) ![Chart.js](https://img.shields.io/badge/Chart.js-12336b?style=flat-square) ![RecSys](https://img.shields.io/badge/RecSys-12336b?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -70,7 +70,7 @@ Popularity, item-based CF, content-based (TF-IDF), matrix factorization, and a h
 
 A browser sandbox where you can *watch* RL agents learn in real time. Grid world, live reward graphs, the whole deal.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-2b2741?style=flat-square) ![Q-Learning](https://img.shields.io/badge/Q--Learning-2b2741?style=flat-square) ![Data Viz](https://img.shields.io/badge/Data%20Viz-2b2741?style=flat-square) ![Education](https://img.shields.io/badge/Education-2b2741?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-12336b?style=flat-square) ![Q-Learning](https://img.shields.io/badge/Q--Learning-12336b?style=flat-square) ![Data Viz](https://img.shields.io/badge/Data%20Viz-12336b?style=flat-square) ![Education](https://img.shields.io/badge/Education-12336b?style=flat-square)
 
 > *"ouch, that was a wall"* — the agent, episode 16
 
